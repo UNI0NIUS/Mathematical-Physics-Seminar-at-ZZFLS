@@ -1,2 +1,2 @@
-# jekyll_demo
-mathematica
+# Seminar on Modern Mathematical Physics at ZZFLS
+讨论班文档
