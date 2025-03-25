@@ -1,2 +1,2 @@
-# Seminar on Modern Mathematical Physics at ZZFLS
+# Seminar, ZZFLS
 讨论班文档
